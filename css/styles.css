@@ -1,0 +1,100 @@
+.image{
+
+
+
+ background-repeat: no-repeat;
+ background-position: center;
+  background-size: cover;
+  height: 800px;
+
+
+}
+register-form{
+  text-align: center;
+}
+
+.social-icons{
+    list-style: none;
+
+    margin: auto 0 auto 0;
+
+    padding: 0.5rem;
+}
+
+
+
+.facebook{
+    color: #21209C;
+    padding: 5px 3px;
+}
+
+.google{
+  text-decoration: none;
+  padding: 5px 3px;
+  border-radius: 50px;
+  color: #D44638;
+
+  position: relative;
+}
+.text{
+  color:#000;
+}
+
+.card{
+
+      background-color:#fff;
+       margin: 50px  auto;
+     box-shadow: -10px -10px 9px #000;
+
+    }
+.navbar-brand{
+  margin-left:10px;
+  color: #fff;
+}
+.btn-s{
+  margin-right: 10px;
+
+}
+.btn-r{
+  margin-right: 10px;
+
+}
+.btn-p{
+  margin-right: 10px;
+
+}
+.btn-a{
+  position:absolute;
+margin-left:1300px;
+}
+
+.Quitz{
+
+  background-repeat: no-repeat;
+  background-position: center;
+   background-size: cover;
+
+ height:1000px;
+
+}
+
+
+.carousel-item{
+  height: 800px;
+}
+.img {
+    width: 521px;
+
+    height: 155px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+.Rule{
+  background-color:#CDF0EA;
+}
